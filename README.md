@@ -15,7 +15,7 @@ Team Project
 
 
 >키 입력
->>![screensh](./Pygame_2019/img/Control1.png)
+>>![screensh](./img/Control1.png)
 
 ## Game #2 Bubble Fighter
 
