@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/bubble.py" line="130" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="400e4964-6248-4cf2-9632-19cc89e99092" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/super.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="75" column="44" lean-forward="true" selection-start-line="75" selection-start-column="44" selection-end-line="75" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1196">
+              <caret line="337" column="35" lean-forward="true" selection-start-line="337" selection-start-column="35" selection-end-line="337" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sprites.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tilemap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>p1_bubble_status</find>
+      <find>event</find>
+      <find>BUBBLE_SPEED = 90</find>
+      <find>bubble</find>
+      <find>false</find>
+      <find>button</find>
+      <find>p2_hit</find>
+      <find>[2]</find>
+      <find>char_image_down</find>
+      <find>bazzi</find>
+      <find>bezzi</find>
+      <find>bubble[1]</find>
+      <find>brock</find>
+      <find>colt</find>
+      <find>Bullet</find>
+      <find>Big</find>
+      <find>bullet</find>
+      <find>Baz</find>
+      <find>bazooka</find>
+      <find>Shel</find>
+      <find>trans</find>
+      <find>p1_bubble</find>
+      <find>load</find>
+      <find>load_data</find>
+      <find>show_</find>
+      <find>draw</find>
+      <find>self.all_sp</find>
+      <find>show_start_screen</find>
+      <find>new</find>
+      <find>map</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/PYGAME/PYGAME/(Team_9)BattleGrounds/settings.py" />
+        <option value="$PROJECT_DIR$/../BrawlStars_ver1.0/main.py" />
+        <option value="$USER_HOME$/PYGAME/PYGAME/(Team_9)BattleGrounds/main.py" />
+        <option value="$USER_HOME$/PYGAME/PYGAME/(Team_9)BattleGrounds/sprites.py" />
+        <option value="$USER_HOME$/YoungJun/Pygame_Brul/test.py" />
+        <option value="$PROJECT_DIR$/../pygame_collision_2 (2) (2)/test.py" />
+        <option value="$PROJECT_DIR$/purple.txt" />
+        <option value="$PROJECT_DIR$/../2019-1/[3-1] 인터넷응용/팀프로젝트#3 PyGame/pygame_collision/test.py" />
+        <option value="$PROJECT_DIR$/../2019-1/[3-1] 인터넷응용/팀프로젝트#3 PyGame/(Team_9)BattleGrounds/sprites.py" />
+        <option value="$PROJECT_DIR$/../2019-1/[3-1] 인터넷응용/팀프로젝트#3 PyGame/(Team_9)BattleGrounds/main.py" />
+        <option value="$PROJECT_DIR$/server.py" />
+        <option value="$PROJECT_DIR$/temp.py" />
+        <option value="$PROJECT_DIR$/../2019-1/[3-1] 인터넷응용/인터넷응용(캡스톤디자인)/PYGAME/(Team_9)BattleGrounds/main.py" />
+        <option value="$PROJECT_DIR$/asdaf.py" />
+        <option value="$PROJECT_DIR$/sprites_1.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/tilemap.py" />
+        <option value="$PROJECT_DIR$/crazyacade.py" />
+        <option value="$PROJECT_DIR$/../Test_5/main_1.py" />
+        <option value="$USER_HOME$/Documents/카카오톡 받은 파일/refac_7/super.py" />
+        <option value="$PROJECT_DIR$/settings.py" />
+        <option value="$USER_HOME$/Documents/카카오톡 받은 파일/refac_7/sprites.py" />
+        <option value="$PROJECT_DIR$/sprites_BP.py" />
+        <option value="$PROJECT_DIR$/../Team4 박영준, 이호찬, 신주호 (2)/main.py" />
+        <option value="$PROJECT_DIR$/super.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/bubble.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="840" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.bubble">
+    <configuration name="bubble" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pygame_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bubble.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pygame_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pygame_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sprites_BP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pygame_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sprites_BP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="super" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pygame_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/super.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bubble" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.super" />
+        <item itemvalue="Python.sprites_BP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="400e4964-6248-4cf2-9632-19cc89e99092" name="Default Changelist" comment="" />
+      <created>1554713051138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554713051138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="0" width="672" height="830" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.07516778" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.07879656" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.07516778" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23891273" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../2019-1/[3-1] 인터넷응용/인터넷응용(캡스톤디자인)/PYGAME/(Team_9)BattleGrounds/main.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sprites_BP.py</url>
+          <line>267</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sprites_BP.py</url>
+          <line>493</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/PYGAME/PYGAME/(Team_9)BattleGrounds/settings.py" />
+    <entry file="file://$USER_HOME$/pygame_collision_2 (2)/test.py" />
+    <entry file="file://$PROJECT_DIR$/../pygame_test/test.py" />
+    <entry file="file://$PROJECT_DIR$/../BrawlStars_ver1.0/main.py" />
+    <entry file="file://$USER_HOME$/PYGAME/PYGAME/(Team_9)BattleGrounds/sprites.py" />
+    <entry file="file://$USER_HOME$/PYGAME/PYGAME/(Team_9)BattleGrounds/main.py" />
+    <entry file="file://$USER_HOME$/YoungJun/Pygame_Brul/test.py" />
+    <entry file="file://$PROJECT_DIR$/../socket/server.py" />
+    <entry file="file://$PROJECT_DIR$/../pygame_collision_2 (2) (2)/test.py" />
+    <entry file="file://$PROJECT_DIR$/purple.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PYGAME/(Team_9)BattleGrounds/sprites.py" />
+    <entry file="file://$PROJECT_DIR$/PYGAME/(Team_9)BattleGrounds/main.py" />
+    <entry file="file://$PROJECT_DIR$/../2019-1/[3-1] 인터넷응용/팀프로젝트#3 PyGame/pygame_collision/test.py" />
+    <entry file="file://$PROJECT_DIR$/../2019-1/[3-1] 인터넷응용/팀프로젝트#3 PyGame/(Team_9)BattleGrounds/main.py" />
+    <entry file="file://$PROJECT_DIR$/../2019-1/[3-1] 인터넷응용/팀프로젝트#3 PyGame/(Team_9)BattleGrounds/sprites.py" />
+    <entry file="file://$PROJECT_DIR$/temp.py" />
+    <entry file="file://$PROJECT_DIR$/asdaf.py" />
+    <entry file="file://$PROJECT_DIR$/../2019-1/[3-1] 인터넷응용/인터넷응용(캡스톤디자인)/PYGAME/(Team_9)BattleGrounds/sprites.py" />
+    <entry file="file://$PROJECT_DIR$/../2019-1/[3-1] 인터넷응용/인터넷응용(캡스톤디자인)/PYGAME/(Team_9)BattleGrounds/main.py" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/sprites_1.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/_AZTMP0_/main.py" />
+    <entry file="file://$PROJECT_DIR$/crazyacade.py" />
+    <entry file="file://$PROJECT_DIR$/../Test_7/sprites_BP.py" />
+    <entry file="file://$PROJECT_DIR$/../Test_7/sprites.py" />
+    <entry file="file://$USER_HOME$/Documents/카카오톡 받은 파일/refac_7/settings.py" />
+    <entry file="file://$USER_HOME$/Documents/카카오톡 받은 파일/refac_7/super.py" />
+    <entry file="file://$USER_HOME$/Documents/카카오톡 받은 파일/refac_7/crazyacade.py" />
+    <entry file="file://$PROJECT_DIR$/../Test_5/sprites.py" />
+    <entry file="file://$PROJECT_DIR$/../Test_5/main_1.py" />
+    <entry file="file://$USER_HOME$/Documents/카카오톡 받은 파일/refac_7/sprites.py" />
+    <entry file="file://$PROJECT_DIR$/../pygame_broll/pygame_collision_3/test.py" />
+    <entry file="file://$PROJECT_DIR$/../Team4 박영준, 이호찬, 신주호 (2)/main.py" />
+    <entry file="file://$PROJECT_DIR$/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="337" column="35" lean-forward="true" selection-start-line="337" selection-start-column="35" selection-end-line="337" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tilemap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sprites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sprites_BP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5618">
+          <caret line="608" column="22" selection-start-line="608" selection-start-column="22" selection-end-line="608" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bubble.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="60" column="22" lean-forward="true" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/super.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="75" column="44" lean-forward="true" selection-start-line="75" selection-start-column="44" selection-end-line="75" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
