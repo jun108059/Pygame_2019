@@ -1,6 +1,6 @@
 # Pygame_2019
 
-HUFS ICE 인터넷 응용(3-1)
+HUFS ICE 인터넷 응용 (3-1)
 
 Team Project
 
